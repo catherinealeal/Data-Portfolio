@@ -2,7 +2,6 @@
 
 This collection of projects documents the data analysis and data science skills I have acquired throughout my undergraduate years. 
 
-| Project | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Project | Description | Libraries | Area |
+| --- | --- | --- | --- |
+| Drug Risk Analysis | Analyzing two datasets to inform on drug use and drug-impaired car accidents between age groups. | pandas, matplotlib | data wrangling, bootstrapping, data visualization |
