@@ -4,5 +4,5 @@ This collection of projects documents the data analysis and data science skills 
 
 | Project | Description | Libraries | Area | 
 | --- | --- | --- | --- | 
-| [Drug Risk Analysis](https://github.com/catherinealeal/DrugRiskAnalysis/tree/main) | Analyzing two datasets to inform on drug use and drug-impaired car accidents between age groups. | pandas, matplotlib | data wrangling, bootstrapping, data visualization | 
-| Predicting Tumor Malignancy |  |  |  | 
+| [Analyzing Drug-Positive Crash Risk](https://github.com/catherinealeal/DrugRiskAnalysis/tree/main) | Analyzing two datasets to inform on drug use and drug-impaired car accidents of different age groups in the US. | pandas, matplotlib | data wrangling, bootstrapping, data visualization | 
+| [Predicting Tumor Malignancy](https://github.com/catherinealeal/TumorMalignancy)https://github.com/catherinealeal/TumorMalignancy) |  Using 2 machine learning algorithms to classify tumor types as malignant or benign, and comparing the performance of the two models trained directly on the data's attributes and trained on principal componenets. | pandas, seaborn, matplotlib, sklearn | Nearest Neighbors, Naive Bayes, Principal Component Analysis | 
