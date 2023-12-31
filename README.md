@@ -1,6 +1,6 @@
 # Cat's Data Portfolio
 
-This collection of projects documents the data analysis and data science skills I have acquired throughout my undergraduate years. 
+This collection of projects documents some of the data analysis and data science skills I have acquired during my undergraduate. 
 
 | Project | Description | Libraries | Area | 
 | --- | --- | --- | --- | 
