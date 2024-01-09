@@ -6,7 +6,8 @@ This collection of projects documents some of the data analysis and data science
 | --- | --- | --- | --- | 
 | [Analyzing Drug-Positive Crash Risk](https://github.com/catherinealeal/DrugRiskAnalysis/tree/main) | Analyzing two datasets to inform on drug use and drug-impaired car accidents of different age groups in the US. | pandas, matplotlib | data wrangling, bootstrapping, data visualization | 
 | [Predicting Tumor Malignancy](https://github.com/catherinealeal/TumorMalignancy) |  Using 2 machine learning algorithms to classify tumor types as malignant or benign, and comparing the performance of the two models trained directly on the data's attributes and trained on principal components. | pandas, seaborn, matplotlib, sklearn | Nearest Neighbors, Naive Bayes, Principal Component Analysis | 
-| Internship Report - White Matter Tracking |  |  |   | 
+| Internship Report - White Matter Tracking | |  |   | 
+| [Melbourne Homes Linear Regression](https://github.com/catherinealeal/MelbourneHomesLinearRegression/tree/main) | Creating a linear regression model to predict the prices of homes in Melbourne. | pandas, numpy, matplotlib | feature engineering, one hot encoding, linear regression | 
 | [Bread Basket Association Rule Mining](https://github.com/catherinealeal/BreadBasketAssociationAnalysis) | Using an association analysis to identify frequent item sets in transactions at a British bakery and proposing an actionable business insight. | pandas, matplotlib, mlxtend | one hot encoding, apriori method, association rules |
 
 ## Completed Courses and Certifications 
