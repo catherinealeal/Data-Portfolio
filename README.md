@@ -9,6 +9,7 @@ This collection of projects documents some of the data analysis and data science
 | Internship Report - White Matter Tracking | |  |   | 
 | [Melbourne Homes Linear Regression](https://github.com/catherinealeal/MelbourneHomesLinearRegression/tree/main) | Creating a linear regression model to predict the prices of homes in Melbourne. | pandas, numpy, matplotlib | feature engineering, one hot encoding, linear regression | 
 | [Decision Tree Classifier Predicting Home Type](https://github.com/catherinealeal/DecisionTreeClassifier/tree/main) | Create a decision tree using two impurities measures to predict the type of home. | sklearn, graphviz | decision trees, entropy, gini index | 
+| [KNN Predicting Home Type](https://github.com/catherinealeal/HouseTypeKNN/tree/main) | Use the k-nearest neighbors algorithm to predict the housing type of homes in Melbourne. | pandas, numpy, matplotlib | k-nearest neighbors, accuracy |
 | [Bread Basket Association Rule Mining](https://github.com/catherinealeal/BreadBasketAssociationAnalysis) | Using an association analysis to identify frequent item sets in transactions at a British bakery and proposing an actionable business insight. | pandas, matplotlib, mlxtend | one hot encoding, apriori method, association rules |
 
 ## Completed Courses and Certifications 
