@@ -8,6 +8,7 @@ This collection of projects documents some of the data analysis and data science
 | [Predicting Tumor Malignancy](https://github.com/catherinealeal/TumorMalignancy) |  Using 2 machine learning algorithms to classify tumor types as malignant or benign, and comparing the performance of the two models trained directly on the data's attributes and trained on principal components. | pandas, seaborn, matplotlib, sklearn | Nearest Neighbors, Naive Bayes, Principal Component Analysis | 
 | Internship Report - White Matter Tracking | |  |   | 
 | [Melbourne Homes Linear Regression](https://github.com/catherinealeal/MelbourneHomesLinearRegression/tree/main) | Creating a linear regression model to predict the prices of homes in Melbourne. | pandas, numpy, matplotlib | feature engineering, one hot encoding, linear regression | 
+| [Decision Tree Classifier Predicting Home Type](https://github.com/catherinealeal/DecisionTreeClassifier/tree/main) | Create a decision tree using two impurities measures to predict the type of home. | sklearn, graphviz | decision trees, entropy, gini index | 
 | [Bread Basket Association Rule Mining](https://github.com/catherinealeal/BreadBasketAssociationAnalysis) | Using an association analysis to identify frequent item sets in transactions at a British bakery and proposing an actionable business insight. | pandas, matplotlib, mlxtend | one hot encoding, apriori method, association rules |
 
 ## Completed Courses and Certifications 
