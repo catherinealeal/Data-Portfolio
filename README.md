@@ -8,9 +8,14 @@ This collection of projects documents some of the data analysis and data science
 | [Predicting Tumor Malignancy](https://github.com/catherinealeal/TumorMalignancy) |  Using 2 machine learning algorithms to classify tumor types as malignant or benign, and comparing the performance of the two models trained directly on the data's attributes and trained on principal components. | pandas, seaborn, matplotlib, sklearn | Nearest Neighbors, Naive Bayes, Principal Component Analysis | 
 | [Internship Report - White Matter Tracking](https://github.com/catherinealeal/WhiteMatterTracking) | Describing 3 projects I worked on in Summer 2023 at the Pestilli Lab. Two projects cover building deep learning models for automatic white matter segmentation. The third project uses Tableau to create dashboards for usage statistics of the BrainLife.io platform. | matplotlib, seaborn | Tableau, image data, CNNs | 
 | [Melbourne Homes Linear Regression](https://github.com/catherinealeal/MelbourneHomesLinearRegression/tree/main) | Creating a linear regression model to predict the prices of homes in Melbourne. | pandas, numpy, matplotlib | feature engineering, one hot encoding, linear regression | 
+| [Bread Basket Association Rule Mining](https://github.com/catherinealeal/BreadBasketAssociationAnalysis) | Using an association analysis to identify frequent item sets in transactions at a British bakery and proposing an actionable business insight. | pandas, matplotlib, mlxtend | one hot encoding, apriori method, association rules |
+
+## Predicting Housing Type via Different Classification Methods 
+| Project | Description | Libraries | Area | 
+| --- | --- | --- | --- | 
 | [Decision Tree Classifier Predicting Home Type](https://github.com/catherinealeal/DecisionTreeClassifier/tree/main) | Create a decision tree using two impurities measures to predict the type of home. | sklearn, graphviz | decision trees, entropy, gini index | 
 | [KNN Predicting Home Type](https://github.com/catherinealeal/HouseTypeKNN/tree/main) | Use the k-nearest neighbors algorithm to predict the housing type of homes in Melbourne. | pandas, numpy, matplotlib | k-nearest neighbors, accuracy |
-| [Bread Basket Association Rule Mining](https://github.com/catherinealeal/BreadBasketAssociationAnalysis) | Using an association analysis to identify frequent item sets in transactions at a British bakery and proposing an actionable business insight. | pandas, matplotlib, mlxtend | one hot encoding, apriori method, association rules |
+| [Predicting Home Type with Naive Bayes](https://github.com/catherinealeal/HouseTypeNaiveBayes) | Use Naive Bayes to predict the house type of homes in Melbourne and compare the results of our classifier to skikit-learn's Naive Bayes classifier. | time, sklearn.naive_bayes | imputation, Naive Bayes |
 
 ## Completed Courses and Certifications 
 - Linear Algebra: Foundations to Frontiers | edX | [certificate](https://courses.edx.org/certificates/186f4d9e78e948ce815550942af7b0f0)
