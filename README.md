@@ -11,6 +11,7 @@ This collection of projects documents some of the data analysis and data science
 | [Fraud Detection via Ensemble Methods](https://github.com/catherinealeal/EnsembleMethodsFraudDetection/tree/main) | Explore ensemble methods AdaBoost and Random Forests to detect fraudulent transactions. | sklearn.ensemble, sklearn.model_selection, sklearn.metrics | AdaBoost, Random Forests, ROC curves | 
 | [Basic K-Means Implementation](https://github.com/catherinealeal/BasicKMeans) | Write functions to implement the basic k-means algorithm and apply those to a test dataset. | pandas, numpy, matplotlib | basic k-means clustering |
 | [DBSCAN Clustering](https://github.com/catherinealeal/DBSCAN) | Implement the DBSCAN algorithm via function generation and compares the results to sklearn's DBSCAN implementation. Also compare the results of the DBSCAN clustering to the clustering via sklearn's K-Means function. | sklearn.cluster | KMeans, DBSCAN |
+| [Hierarchical Clustering with Election Data](https://github.com/catherinealeal/ElectionHierarchicalClustering) | Use hierarchical clustering to group states based on votes cast in past elections. | scipy, sklearn | hierarchical clustering, CPCC, k-means, silhouette coefficients | 
 
 
 ## Dataset: Melbourne Homes
