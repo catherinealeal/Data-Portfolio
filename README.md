@@ -10,6 +10,7 @@ This collection of projects documents some of the data analysis and data science
 | [Bread Basket Association Rule Mining](https://github.com/catherinealeal/BreadBasketAssociationAnalysis) | Using an association analysis to identify frequent item sets in transactions at a British bakery and proposing an actionable business insight. | pandas, matplotlib, mlxtend | one hot encoding, apriori method, association rules |
 | [Fraud Detection via Ensemble Methods](https://github.com/catherinealeal/EnsembleMethodsFraudDetection/tree/main) | Explore ensemble methods AdaBoost and Random Forests to detect fraudulent transactions. | sklearn.ensemble, sklearn.model_selection, sklearn.metrics | AdaBoost, Random Forests, ROC curves | 
 | [Basic K-Means Implementation](https://github.com/catherinealeal/BasicKMeans) | Write functions to implement the basic k-means algorithm and apply those to a test dataset. | pandas, numpy, matplotlib | basic k-means clustering |
+| [DBSCAN Clustering](https://github.com/catherinealeal/DBSCAN) | Implement the DBSCAN algorithm via function generation and compares the results to sklearn's DBSCAN implementation. Also compare the results of the DBSCAN clustering to the clustering via sklearn's K-Means function. | sklearn.cluster | KMeans, DBSCAN |
 
 
 ## Dataset: Melbourne Homes
