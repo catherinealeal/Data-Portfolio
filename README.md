@@ -2,6 +2,11 @@
 
 This collection of projects documents some of the data analysis and data science skills I have acquired during my undergraduate. 
 
+## Computational Neuroscience
+| Project | Description | Libraries | Area | 
+| --- | --- | --- | --- | 
+| [LIF Model](https://github.com/catherinealeal/LIFModel) | Simulating the Leaky Integrate-and-Fire model for a single neuron and evaluating its accuracy using real neuron data. | matplotlib, numpy | model simulation, electrophysiology | 
+
 ## Data Analytics
 | Project | Description | Libraries | Area | 
 | --- | --- | --- | --- | 
