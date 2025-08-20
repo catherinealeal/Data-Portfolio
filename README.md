@@ -9,7 +9,7 @@ This portfolio highlights personal projects that demonstrate the data analysis a
 
 ## SQL 
 | Project | Description  | Language + Apps | 
-| --- | --- | --- | --- | 
+| --- | --- | --- | 
 | [Revenue Loss Analysis with SQL](https://github.com/catherinealeal/RevenueLossAnalysis) | I examine a company’s transactional data to understand factors contributing to their revenue loss and to identify strategies for improving profit.| SQL - SQLite, DBeaver | 
 
 ## 
