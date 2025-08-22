@@ -12,7 +12,7 @@ This portfolio highlights personal projects that demonstrate the data analysis a
 | --- | --- | --- | --- | 
 | [Predicting Fetal Health with Tree-Based Models](https://github.com/catherinealeal/FetalHealthClassifier) | Three classification models (decision tree, AdaBoost, random forest) are trained to predict whether a fetus’s health is normal, suspect or pathological based on CTG data. Models are compared using accuracy and F1-score. |**Decision Trees, AdaBoost, Random Forests, Generalization Error, F1-Score, Feature Importance**|Python - sklearn, mpl| 
 
-## Data Analysis 
+## Data Analytics and Visualization
 | Project | Description | Language + Apps | 
 | --- | --- | --- | 
 | [Revenue Loss Analysis with SQL](https://github.com/catherinealeal/RevenueLossAnalysis) | I examine a company’s transactional data to understand factors contributing to their revenue loss and to identify strategies for improving profit.| SQLite, DBeaver | 
