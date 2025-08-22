@@ -10,8 +10,7 @@ This portfolio highlights personal projects that demonstrate the data analysis a
 ## Classification
 | Project | Description | Topics | Language + Libraries | 
 | --- | --- | --- | --- | 
-| [Predicting Fetal Health with Tree-Based Models](https://github.com/catherinealeal/FetalHealthClassifier) |
-Three classification models (decision tree, AdaBoost, random forest) are trained to predict whether a fetus’s health is normal, suspect or pathological based on CTG data. Models are compared using accuracy and F1-score. |**Decision Trees, AdaBoost, Random Forests, Generalization Error, F1-Score**|Python - sklearn, mpl| 
+| [Predicting Fetal Health with Tree-Based Models](https://github.com/catherinealeal/FetalHealthClassifier) | Three classification models (decision tree, AdaBoost, random forest) are trained to predict whether a fetus’s health is normal, suspect or pathological based on CTG data. Models are compared using accuracy and F1-score. |**Decision Trees, AdaBoost, Random Forests, Generalization Error, F1-Score**|Python - sklearn, mpl| 
 
 ## Data Analysis 
 | Project | Description | Language + Apps | 
