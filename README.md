@@ -5,7 +5,7 @@ This portfolio highlights personal projects that demonstrate the data analysis a
 ## Regression
 | Project | Description | Topics | Language + Libraries | 
 | --- | --- | --- | --- | 
-| [Predicting Medical Costs with Linear Regression](https://github.com/catherinealeal/InsuranceCostPrediction) |Medical insurance companies provide coverage to customers based on their predicted yearly medical costs. The goal of this project is to build a linear regression model that predicts an individual’s yearly medical costs based on their background information.| **Simple + Multiple Linear Regression, Residual Analysis, Lasso Regresion for Feature Selection** | Python - sklearn.LinearRegression, matplotlib| 
+| [Predicting Medical Costs with Linear Regression](https://github.com/catherinealeal/InsuranceCostPrediction) |Medical insurance companies provide coverage to customers based on their predicted yearly medical costs. The goal of this project is to build a linear regression model that predicts an individual’s yearly medical costs based on their background information.| **Simple + Multiple Linear Regression, Residual Analysis, Lasso Regresion for Feature Selection** | Python - sklearn.linear_model, matplotlib| 
 
 ## Classification
 | Project | Description | Topics | Language + Libraries | 
