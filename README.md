@@ -20,7 +20,7 @@ This portfolio highlights personal projects that demonstrate the data analysis a
 |  |  |  |  | 
 |  |  |  |  | 
 
-## Unsupervised Learning 
+## Unsupervised Learning (Clustering)
 | Project | Description | Topics | Language + Libraries | 
 | --- | --- | --- | --- | 
 |  |  |  |  | 
