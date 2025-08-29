@@ -33,7 +33,9 @@ This portfolio highlights personal projects that demonstrate the data analysis a
 |  |  |  |  | 
 
 ## Data Analytics and Visualization
-| Project | Description | Language + Apps | 
-| --- | --- | --- | 
-| [Revenue Loss Analysis with SQL](https://github.com/catherinealeal/RevenueLossAnalysis) | I examine a company’s transactional data to understand factors contributing to their revenue loss and to identify strategies for improving profit.| SQLite, DBeaver | 
+| Project | Description | Topics | Language + Libraries | 
+| --- | --- | --- | --- |
+| [Survival Analysis of Veterans with Lung Cancer](https://github.com/catherinealeal/VeteranSurvivalAnalysis)  | Parametric and non-parametric methods are used to analyze the survival of veterans with lung cancer using time-to-event data and co-variates.|Survival Analysis, Weibull/Exponential Parametric Model, Kaplan-Meier Estimator, Likelihood Ratio Test, Log-Rank Test| R, survival package - Surv, survreg, survfit, survdiff| 
+| [Revenue Loss Analysis with SQL](https://github.com/catherinealeal/RevenueLossAnalysis) | I examine a company’s transactional data to understand factors contributing to their revenue loss and to identify strategies for improving profit.|  | SQLite | 
+
 
