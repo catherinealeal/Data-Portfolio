@@ -13,6 +13,7 @@ This portfolio highlights personal projects that demonstrate the data analysis a
 | Project | Description | Topics | Language + Libraries | 
 | --- | --- | --- | --- | 
 | [Predicting Fetal Health with Tree-Based Models](https://github.com/catherinealeal/FetalHealthClassifier) | Three classification models (decision tree, AdaBoost, random forest) are trained to predict whether a fetus’s health is normal, suspect or pathological based on CTG data. Models are compared using accuracy and F1-score. |Decision Trees, AdaBoost, Random Forests, Generalization Error, F1-Score, Feature Importance|Python - sklearn.tree, sklearn.ensemble, sklearn.model_selection, sklearn.metrics, matplotlib| 
+| [Comparing Classifiers for Predicting Death in Heart Failure Patients](https://github.com/catherinealeal/ClassifyingHeartFailurePatients) | K-Nearest Neighbors, Gaussian Naive Bayes, and Logistic Regression models are trained to predict survival of heart failure patients. | KNN, Gaussian NB, LR, PCA, Parameter Tuning, Precision, Recall, F1-Score | Python - sklearn.naive_bayes, sklearn.linear_model, sklearn.neighbors, sklearn.model_selection, sklearn.preprocessing, sklearn.decomposition, sklearn.metrics| 
 
 ### Deep Learning 
 | Project | Description | Topics | Language + Libraries | 
