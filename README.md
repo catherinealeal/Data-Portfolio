@@ -24,7 +24,7 @@ This portfolio highlights personal projects that demonstrate the data analysis a
 ## Unsupervised Learning (Clustering)
 | Project | Description | Topics | Language + Libraries | 
 | --- | --- | --- | --- | 
-|  |  |  |  | 
+| [Clustering Blood Biomarkers to Identify Patients at Risk of Diabetes](https://github.com/catherinealeal/ClusteringDiabeticBiomarkers/tree/main) | K-Means and Spectral Clustering are used to explore patterns in patient biomarker data and assess whether unsupervised methods can help identify individuals at risk of diabetes. | KMeans, Spectral Clustering, PCA, Silhouette score, Adjusted Rand Index, Normalized Mutual Info| Python - sklearn.preprocessing, sklearn.cluster, sklearn.metrics, sklearn.decomposition, matplotlib| 
 |  |  |  |  | 
 
 ## Reinforcement Learning
