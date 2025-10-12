@@ -25,7 +25,7 @@ These personal projects demonstrate the data analysis and data science skills Iâ
 | Project | Description | Topics | Language + Libraries | 
 | --- | --- | --- | --- | 
 | [Clustering Blood Biomarkers to Identify Patients at Risk of Diabetes](https://github.com/catherinealeal/ClusteringDiabeticBiomarkers/tree/main) | K-Means and Spectral Clustering are used to explore patterns in patient biomarker data and assess whether unsupervised methods can help identify individuals at risk of diabetes. | KMeans, Spectral Clustering, PCA, Silhouette score, Adjusted Rand Index, Normalized Mutual Info| Python - sklearn.preprocessing, sklearn.cluster, sklearn.metrics, sklearn.decomposition, matplotlib| 
-|  |  |  |  | 
+| [Clustering Health Data to Recognize Obesity Levels](https://github.com/catherinealeal/ClusteringWeightCategories/tree/main) | Hierarchical Clustering, DBSCAN, and Gaussian Mixture Models are used to group individuals based on lifestyle and health features to see if the clusters reflect their obesity levels.| Hierarchical Clustering, DBSCAN, GMM, Silhouette Score, ARI| Python - sklearn.preprocessing, sklearn.decomposition, sklearn.cluster, sklearn.mixture, sklearn.metrics, matplotlib| 
 
 ## Reinforcement Learning
 | Project | Description | Topics | Language + Libraries | 
