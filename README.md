@@ -1,6 +1,6 @@
 # Catherine Leal's Data Portfolio
 
-These personal projects demonstrate the data analysis and data science skills I’m developing during my graduate studies.
+These personal projects demonstrate some of the data analysis and data science skills I developed during my graduate studies.
 
 ## Supervised Learning 
 |Category | Project | Description | Topics | Language + Libraries | 
