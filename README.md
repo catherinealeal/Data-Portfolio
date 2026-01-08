@@ -16,7 +16,8 @@ These personal projects demonstrate some of the data analysis and data science s
 | [Clustering Health Data to Recognize Obesity Levels](https://github.com/catherinealeal/ClusteringWeightCategories/tree/main) | Hierarchical Clustering, DBSCAN, and Gaussian Mixture Models are used to group individuals based on lifestyle and health features to see if the clusters reflect their obesity levels.| Hierarchical Clustering, DBSCAN, GMM, Silhouette Score, ARI| Python - sklearn.preprocessing, sklearn.decomposition, sklearn.cluster, sklearn.mixture, sklearn.metrics, matplotlib| 
 
 ## Other Projects
-|Category | Project | Description | Topics | Language + Libraries | 
+|Category | Project | Description | Topics | Tools | 
 | --- | --- | --- | --- | --- |
 | Modeling | [Survival Analysis of Veterans with Lung Cancer](https://github.com/catherinealeal/VeteranSurvivalAnalysis)  | Parametric and non-parametric methods are used to analyze the survival of veterans with lung cancer using time-to-event data and co-variates.|Survival Analysis, Weibull/Exponential Parametric Model, Kaplan-Meier Estimator, Likelihood Ratio Test, Log-Rank Test| R - survival(Surv, survreg, survfit, survdiff)| 
 | Data Analytics | [Revenue Loss Analysis with SQL](https://github.com/catherinealeal/RevenueLossAnalysis) | I examine a company’s transactional data to understand factors contributing to their revenue loss and to identify strategies for improving profit.| Joins, Aggregrating, Case Statements, Sorting | SQLite | 
+| Data Visualization | [Platform Statistics Dashboard with Tableau](https://github.com/catherinealeal/BLDashboard) | As a part of my 2023 internship, I used Tableau to create plots and dashboards for displaying a platform's usage statistics. | Data Visualization | Tableau |
